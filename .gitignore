@@ -1,0 +1,66 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Debugging files
+*.swp
+*.swo
+*.swn
+*.swm
+*.bak
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+*.xlsx
+*.db-journal
+
+# Testing
+coverage/
+.nyc_output/
+
+# IDE-specific files
+.idea/
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Compiled binary addons
+build/ 
